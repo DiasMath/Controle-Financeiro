@@ -1,0 +1,25 @@
+# Python
+__pycache__/            
+*.py[cod]              
+*.pyo                  
+*.pyd                
+.Python                
+*.egg-info/           
+.eggs/               
+*.egg                 
+
+# Django
+*.log                  
+*.sqlite3               
+db.sqlite3
+*.pot                  
+*.pyc                    
+*.pyo                   
+*.pyd                     
+media/                  
+
+# Outros
+*.DS_Store              
+*.log                  
+*.tmp                  
+*.swp                   
